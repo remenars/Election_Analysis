@@ -20,5 +20,4 @@ Diana DeGette won the election 73.8% of the total votes or 272,892 votes.
 
 ## Election Audit Summary
 
-
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+This script can be used for any election as long as the csv file is updated with new election information and retains the same columns. The script doesn't necessarily have to change if the csv file is overwritten with new election information. If not, one needs to execute the script in a folder that contains a Resources folder and an analysis folder. The election data needs to be a csv file saved in the Resources folder. if it is not named election_data, the script will need to be updated to replace the old file name with the new file name (lines 36 and 37).
