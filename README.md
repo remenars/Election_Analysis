@@ -18,6 +18,10 @@ The purpose of this election audit is provide the election commission some addit
 
 Diana DeGette won the election 73.8% of the total votes or 272,892 votes.
 
+Please refer to this screenshot of the executed script:
+
+![election_results](https://github.com/remenars/Election_Analysis/blob/main/Screenshot.png)
+
 ## Election Audit Summary
 
 This script can be used for any election as long as the csv file is updated with new election information and retains the same columns. The script doesn't necessarily have to change if the csv file is overwritten with new election information. If not, one needs to execute the script in a folder that contains a Resources folder and an analysis folder. The election data needs to be a csv file saved in the Resources folder. if it is not named election_data, the script will need to be updated to replace the old file name with the new file name (lines 36 and 37).
