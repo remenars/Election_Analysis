@@ -7,6 +7,10 @@ The purpose of this election audit is provide the election commission some addit
 ## Election-Audit Results
 
 * There were a total of 369,711 votes cast in this congressional election
+* The breakdown by county:
+  * Jefferson County had 10.5% of the votes (38,855)
+  * Denver County had 82.8% of the votes (306,055)
+  * Arapahoe County had 6.7% of the votes (24,801)
 
 
 
